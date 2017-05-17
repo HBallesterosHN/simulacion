@@ -25,3 +25,6 @@ c:\users\informatica\documents\visual studio 2012\Projects\simulador\simulador\o
 \\192.168.1.106\Users\Public\simulador\simulador\obj\Debug\simulador.Form1.resources
 \\192.168.1.106\Users\Public\simulador\simulador\obj\Debug\simulador.Properties.Resources.resources
 \\192.168.1.106\Users\Public\simulador\simulador\obj\Debug\simulador.csproj.GenerateResource.Cache
+C:\Users\Informatica\Documents\github\simulacion\simulador\simulador\bin\Debug\simulador.exe.config
+C:\Users\Informatica\Documents\github\simulacion\simulador\simulador\obj\Debug\simulador.exe
+C:\Users\Informatica\Documents\github\simulacion\simulador\simulador\obj\Debug\simulador.pdb

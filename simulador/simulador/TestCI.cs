@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace simulador
 {
-    class Colector
+    class TestCI
     {
-        public int contador { get; set; }
 
+
+
+        //Clase para test CI 
     }
 }
